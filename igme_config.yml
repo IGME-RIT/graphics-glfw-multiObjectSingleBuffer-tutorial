@@ -1,3 +1,4 @@
+series: GLFW Graphics
 title: Multi-Object Single-Buffer
 author:
   name: IGME-RIT
@@ -5,13 +6,9 @@ author:
   github: igme-rit
 description: This program serves to demonstrate how to use multiple objects in a single buffer.
 language: C++
-image:
-  icon: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
-  banner: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
 tags:
-  - C++
   - Graphics
 extra_resources:
-  -
 connections:
-  - "marching-cubes-tutorial"
+  - series: GLFW Graphics
+    title: Marching Cubes Tutorial
